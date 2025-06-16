@@ -12,7 +12,7 @@ Join the Discord for questions or permission requests: https://discord.gg/QzkKa2
 
 ![shirt-1]([images/shirt1.png](https://cdn.discordapp.com/attachments/1319472114956374090/1379335443426050128/image.png?ex=6851a9fc&is=6850587c&hm=9ca4713d0144f771f95ce494e6b55e2d21215ae7d8602d226a97b3cc21ad6853&))
 
-![shirt-1 2nd image]([https://cdn.discordapp.com/attachments/1319472114956374090/1379335443761463376/image.png?ex=6851a9fc&is=6850587c&hm=180be818abbac9cadebbec767048eaead4944d2b9e37a084ca6dce6affd716c8&](https://cdn.discordapp.com/attachments/1319472114956374090/1379335443426050128/image.png?ex=6851a9fc&is=6850587c&hm=9ca4713d0144f771f95ce494e6b55e2d21215ae7d8602d226a97b3cc21ad6853&))
+![shirt-1 2nd image]([images/shirt1.png](https://cdn.discordapp.com/attachments/1319472114956374090/1379335443426050128/image.png?ex=6851a9fc&is=6850587c&hm=9ca4713d0144f771f95ce494e6b55e2d21215ae7d8602d226a97b3cc21ad6853&))
 
 ![shirt-2](https://cdn.discordapp.com/attachments/1319472114956374090/1379335444201996389/image.png?ex=6851a9fc&is=6850587c&hm=6feea14818f016e9bf243f9835e9cf76d9f06653603bc28f2ffcf304c29ec67a&)
 
